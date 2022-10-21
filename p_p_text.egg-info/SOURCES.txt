@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+p_p_text/clean_stop_words.py
+p_p_text/clean_text.py
+p_p_text.egg-info/PKG-INFO
+p_p_text.egg-info/SOURCES.txt
+p_p_text.egg-info/dependency_links.txt
+p_p_text.egg-info/requires.txt
+p_p_text.egg-info/top_level.txt
+p_p_text/tests/test_clean_text.py
+p_p_text/tests/test_clean_text_p.py
